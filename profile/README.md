@@ -2,11 +2,12 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FullStackWithLawrence/)
 [![Patreon](https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/FullStackWithLawrence)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/lpm0073)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencemcdaniel/)
 
 
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
-[![openedx.org](https://img.shields.io/static/v1?logo=discourse&label=Forums&style=flat-square&color=000000&message=discuss.openedx.org)](https://discuss.openedx.org/u/lpm0073/)
+[![Blog](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://blog.lawrencemcdaniel.com)
 
 
 Welcome! You've stumbled upon the code samples for my [YouTube channel](https://youtube.com/@FullStackWithLawrence). In this channel we talk about coding tips, data science, freelancing, miscelaneous open source projects to which I contribute, and other fun and random subject matter.
