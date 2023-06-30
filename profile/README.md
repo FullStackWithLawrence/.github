@@ -1,7 +1,9 @@
 # Code Samples for FullStackWithLawrence
 
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dhttps://patreon.com/FullStackWithLawrence%26type%3Dpatrons&style=flat)](https://patreon.com/https://patreon.com/FullStackWithLawrence)
+
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DFullStackWithLawrence%26type%3Dpatrons&style=flat)](https://patreon.com/FullStackWithLawrence)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencemcdaniel/)
 
 [![openedx.org](https://img.shields.io/static/v1?logo=discourse&label=Forums&style=flat-square&color=000000&message=discuss.openedx.org)](https://discuss.openedx.org/u/lpm0073/)
