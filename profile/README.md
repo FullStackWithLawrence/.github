@@ -1,6 +1,7 @@
 # Code Samples for FullStackWithLawrence
 
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
+[![openedx.org](https://img.shields.io/static/v1?logo=discourse&label=Forums&style=flat-square&color=000000&message=discuss.openedx.org)](https://discuss.openedx.org/u/lpm0073/)
 
 Welcome! You've stumbled upon the code samples for my [YouTube channel](https://youtube.com/@FullStackWithLawrence). In this channel we talk about coding tips, data science, freelancing, miscelaneous open source projects to which I contribute, and other fun and random subject matter.
 
@@ -17,7 +18,7 @@ Welcome! You've stumbled upon the code samples for my [YouTube channel](https://
 
 ## Open Source Projects To Which I Contribute
 
-- [Open edX](https://discuss.openedx.org/u/lpm0073/notifications)
+- [Open edX](https://discuss.openedx.org/u/lpm0073/)
 - [Cookiecutter Openedx Project](https://cookiecutter-openedx.org/)
 - [Openedx Actions Project](https://github.com/openedx-actions/)
 - [More contact information](https://lawrencemcdaniel.com/contact)
