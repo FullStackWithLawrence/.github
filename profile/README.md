@@ -5,11 +5,6 @@
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/lpm0073)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencemcdaniel/)
 
-
-[![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
-[![Blog](https://img.shields.io/badge/Blog%20blog.lawrencemcdaniel.com-black.svg)](https://blog.lawrencemcdaniel.com)
-
-
 Welcome! You've stumbled upon the code samples for my [YouTube channel](https://youtube.com/@FullStackWithLawrence). In this channel we talk about coding tips, data science, freelancing, miscelaneous open source projects to which I contribute, and other fun and random subject matter.
 
 [![Here's an example video](https://i3.ytimg.com/vi/4TcSrEzciHA/maxresdefault.jpg)](https://www.youtube.com/watch?v=4TcSrEzciHA)
