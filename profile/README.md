@@ -7,7 +7,7 @@
 
 Welcome! You've stumbled upon the code samples for my [YouTube channel](https://youtube.com/@FullStackWithLawrence). In this channel we talk about coding tips, data science, freelancing, miscelaneous open source projects to which I contribute, and other fun and random subject matter.
 
-[![An example video](https://raw.githubusercontent.com/FullStackWithLawrence/.github/main/img/headshot.jpeg)](https://www.youtube.com/watch?v=4TcSrEzciHA)
+[![FullStackWithLawrence](https://raw.githubusercontent.com/FullStackWithLawrence/.github/main/img/headshot.jpeg)](https://www.youtube.com/@FullStackWithLawrence)
 
 ## How to Find Me
 
